@@ -20,3 +20,8 @@ Dopo aver creato un nuovo database nel vostro phpMyAdmin e aver importato lo sch
 
 Cosa consegnare?
 Dopo aver testato le vostre query con phpMyAdmin, riportatele in un file txt e caricatelo nella vostra repo.
+
+## 3° parte
+
+- EX- Query con **GROUP BY**
+- EX- Query con **JOIN**
